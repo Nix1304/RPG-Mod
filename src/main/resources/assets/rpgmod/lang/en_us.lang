@@ -1,0 +1,23 @@
+# ITEMS
+# Spells
+item.healing_spell.name=Healing spell
+
+# Mana Pies
+item.small_mana_pie.name=Small mana pie
+item.medium_mana_pie.name=Medium mana pie
+item.big_mana_pie.name=Big mana pie
+
+# TABS
+itemGroup.spells_tab=Spells tab
+itemGroup.mage_tab=Mage tab
+
+# GUI
+rpg.gui.intellect=Intellect
+rpg.gui.strength=Strength
+rpg.gui.speed=Speed
+rpg.gui.ability=Ability
+rpg.gui.total_points=Total Points
+rpg.gui.choose_class=Choose class
+rpg.gui.submit=Submit
+
+rpg.gui.class=Class
